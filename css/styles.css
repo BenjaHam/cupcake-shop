@@ -14,5 +14,12 @@ h1.main{
 li.best{
   color: purple;
   font-family: cursive;
-  
+
+}
+
+
+
+li.flashy{
+  color: red;
+  font-style: italic;
 }
